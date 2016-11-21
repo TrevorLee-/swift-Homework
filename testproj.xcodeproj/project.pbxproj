@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					7CB2547F1DD40F9300361B82 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 83QJCRHB6N;
 						ProvisioningStyle = Automatic;
 					};
 					7CB254931DD40F9300361B82 = {
@@ -412,6 +413,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 83QJCRHB6N;
 				INFOPLIST_FILE = testproj/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = trevor.testproj;
@@ -424,6 +426,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 83QJCRHB6N;
 				INFOPLIST_FILE = testproj/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = trevor.testproj;
