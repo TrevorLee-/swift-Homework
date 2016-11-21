@@ -305,7 +305,6 @@ class ViewController: UIViewController {
         default:
             break
         }
-//        self.displayLable.text = String(saveFirstNumber)
     }
 }
 
